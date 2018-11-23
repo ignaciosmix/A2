@@ -8,7 +8,7 @@
      setcookie('lastdayvisited',null, time()-3600, '/');
       
     
-     //USADO PARA PRUEBAS CON IFSET
+     //USADO PARA PRUEBAS CON IFSET PERO AL FINAL ME HA ACABADO DANDO PROBLEMAS CON LAS COOKIES
      /*unset($_COOKIE['cookielogin']);
      unset($_COOKIE['cookiepass']);
      unset($_COOKIE['lasthourvisited']);
